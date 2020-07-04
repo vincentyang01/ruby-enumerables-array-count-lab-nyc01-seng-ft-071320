@@ -4,7 +4,7 @@ def count_strings(array)
   array.count do |words|
     if words.class == String
     i += 1;
-  end
+    end
   end
   i
 end
