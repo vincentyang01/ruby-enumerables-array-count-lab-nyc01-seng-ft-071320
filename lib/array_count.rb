@@ -5,6 +5,7 @@ def count_strings(array)
     if words.class == String
     i += 1;
   end
+  end
   i
 end
 
